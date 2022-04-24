@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Huahua-react-website/static/css/main.744dd75a.chunk.css",
+    "main.js": "/Huahua-react-website/static/js/main.2dbd4ddf.chunk.js",
+    "main.js.map": "/Huahua-react-website/static/js/main.2dbd4ddf.chunk.js.map",
+    "runtime-main.js": "/Huahua-react-website/static/js/runtime-main.ebf0e7ed.js",
+    "runtime-main.js.map": "/Huahua-react-website/static/js/runtime-main.ebf0e7ed.js.map",
+    "static/js/2.9517e0cd.chunk.js": "/Huahua-react-website/static/js/2.9517e0cd.chunk.js",
+    "static/js/2.9517e0cd.chunk.js.map": "/Huahua-react-website/static/js/2.9517e0cd.chunk.js.map",
+    "index.html": "/Huahua-react-website/index.html",
+    "precache-manifest.4d32abf2894a008450a15406c44b8f2a.js": "/Huahua-react-website/precache-manifest.4d32abf2894a008450a15406c44b8f2a.js",
+    "service-worker.js": "/Huahua-react-website/service-worker.js",
+    "static/css/main.744dd75a.chunk.css.map": "/Huahua-react-website/static/css/main.744dd75a.chunk.css.map",
+    "static/js/2.9517e0cd.chunk.js.LICENSE.txt": "/Huahua-react-website/static/js/2.9517e0cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebf0e7ed.js",
+    "static/js/2.9517e0cd.chunk.js",
+    "static/css/main.744dd75a.chunk.css",
+    "static/js/main.2dbd4ddf.chunk.js"
+  ]
+}
